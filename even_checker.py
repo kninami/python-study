@@ -1,5 +1,5 @@
 import sys
-
+x
 def main(arrays):
     flag = True
     for index, number in enumerate(arrays, start = 1):
